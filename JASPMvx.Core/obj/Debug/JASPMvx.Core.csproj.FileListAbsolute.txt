@@ -1,0 +1,8 @@
+Y:\github\CRPrototyping\JASPMvx\JASPMvx.Core\bin\Debug\JASPMvx.Core.dll
+Y:\github\CRPrototyping\JASPMvx\JASPMvx.Core\bin\Debug\JASPMvx.Core.pdb
+Y:\github\CRPrototyping\JASPMvx\JASPMvx.Core\bin\Debug\Cirrious.CrossCore.dll
+Y:\github\CRPrototyping\JASPMvx\JASPMvx.Core\bin\Debug\Cirrious.MvvmCross.dll
+Y:\github\CRPrototyping\JASPMvx\JASPMvx.Core\bin\Debug\Cirrious.MvvmCross.Localization.dll
+Y:\github\CRPrototyping\JASPMvx\JASPMvx.Core\obj\Debug\JASPMvx.Core.dll
+Y:\github\CRPrototyping\JASPMvx\JASPMvx.Core\obj\Debug\JASPMvx.Core.pdb
+Y:\github\CRPrototyping\JASPMvx\JASPMvx.Core\obj\Debug\JASPMvx.Core.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+Y:\github\CRPrototyping\JASPMvx\JASPMvx.Ios\JASPMvx.Ios\bin\iPhoneSimulator\Debug\JASPMvxIos.exe
+Y:\github\CRPrototyping\JASPMvx\JASPMvx.Ios\JASPMvx.Ios\bin\iPhoneSimulator\Debug\JASPMvxIos.pdb
+Y:\github\CRPrototyping\JASPMvx\JASPMvx.Ios\JASPMvx.Ios\bin\iPhoneSimulator\Debug\Cirrious.CrossCore.dll
+Y:\github\CRPrototyping\JASPMvx\JASPMvx.Ios\JASPMvx.Ios\bin\iPhoneSimulator\Debug\Cirrious.CrossCore.Touch.dll
+Y:\github\CRPrototyping\JASPMvx\JASPMvx.Ios\JASPMvx.Ios\bin\iPhoneSimulator\Debug\Cirrious.MvvmCross.Binding.dll
+Y:\github\CRPrototyping\JASPMvx\JASPMvx.Ios\JASPMvx.Ios\bin\iPhoneSimulator\Debug\Cirrious.MvvmCross.Binding.Touch.dll
+Y:\github\CRPrototyping\JASPMvx\JASPMvx.Ios\JASPMvx.Ios\bin\iPhoneSimulator\Debug\Cirrious.MvvmCross.dll
+Y:\github\CRPrototyping\JASPMvx\JASPMvx.Ios\JASPMvx.Ios\bin\iPhoneSimulator\Debug\Cirrious.MvvmCross.Localization.dll
+Y:\github\CRPrototyping\JASPMvx\JASPMvx.Ios\JASPMvx.Ios\bin\iPhoneSimulator\Debug\Cirrious.MvvmCross.Touch.dll
+Y:\github\CRPrototyping\JASPMvx\JASPMvx.Ios\JASPMvx.Ios\bin\iPhoneSimulator\Debug\JASidePanels.dll
+Y:\github\CRPrototyping\JASPMvx\JASPMvx.Ios\JASPMvx.Ios\bin\iPhoneSimulator\Debug\JASPMvx.Core.dll
+Y:\github\CRPrototyping\JASPMvx\JASPMvx.Ios\JASPMvx.Ios\bin\iPhoneSimulator\Debug\JASPMvx.Core.pdb
+Y:\github\CRPrototyping\JASPMvx\JASPMvx.Ios\JASPMvx.Ios\obj\iPhoneSimulator\Debug\Default-568h@2x.png
+Y:\github\CRPrototyping\JASPMvx\JASPMvx.Ios\JASPMvx.Ios\obj\iPhoneSimulator\Debug\JASPMvx.Ios.csprojResolveAssemblyReference.cache
+Y:\github\CRPrototyping\JASPMvx\JASPMvx.Ios\JASPMvx.Ios\obj\iPhoneSimulator\Debug\JASPMvxIos.exe
+Y:\github\CRPrototyping\JASPMvx\JASPMvx.Ios\JASPMvx.Ios\obj\iPhoneSimulator\Debug\JASPMvxIos.pdb
